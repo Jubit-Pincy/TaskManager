@@ -32,6 +32,7 @@ jobs:
     uses: Jubit-Pincy/devsecops-toolkit/.github/workflows/reusable.yml@main
     with:
       sonar_org:                    jubit-pincy
+      project_key:                  TaskManager
       azure_resource_group:         ''
       azure_api_name:               ''
       azure_webapp_name:            ''
