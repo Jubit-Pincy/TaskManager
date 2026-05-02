@@ -43,5 +43,5 @@ jobs:
       weight_hotspots:              ${{ github.event.inputs.weight_hotspots || '2' }}
       risk_threshold_low:           ${{ github.event.inputs.risk_threshold_low || '10' }}
       risk_threshold_med:           ${{ github.event.inputs.risk_threshold_med || '30' }}
-      app_url:                      https://blue-sea-01c0be400.6.azurestaticapps.net
+      app_url:                      https://blue-sea-01c0be400.7.azurestaticapps.net
     secrets: inherit
