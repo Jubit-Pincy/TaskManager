@@ -6,7 +6,7 @@ Simple React task manager for SonarCloud analysis and Azure Static Web Apps depl
 
 ```bash
 npm install
-npm start       # Dev server at localhost:3000
+npm start       
 npm test        # Run tests + coverage
 npm run build   # Production build
 ```
