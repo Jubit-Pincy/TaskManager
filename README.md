@@ -1,6 +1,6 @@
 # React Task App
 
-Simple React task manager with SonarCloud analysis and Azure Static Web Apps deployment.
+Simple React task manager for SonarCloud analysis and Azure Static Web Apps deployment.
 
 ## Setup
 
