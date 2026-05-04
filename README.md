@@ -28,4 +28,4 @@ npm run build   # Production build
 
 ## CI/CD Flow
 
-`push to main` → Run tests → SonarCloud analysis → Deploy to Azure 
+`push to main` → Run tests → SonarCloud analysis → Deploy to Azure and view results on the generated dashboard.
